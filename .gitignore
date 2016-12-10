@@ -1,0 +1,8 @@
+# Do not upload credentials
+# -------------------------
+conf.py
+
+*.pyc
+upload/*
+download/*
+
